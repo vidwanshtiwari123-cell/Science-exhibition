@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vidwanshtiwari123-cell.github.io/Science-exhibition/sitemap.xml
